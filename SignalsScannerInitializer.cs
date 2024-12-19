@@ -9,7 +9,7 @@ namespace Signals {
     public static class SignalsScannerInitializer
     {
         static readonly string[] SearchFolders = new[]{
-            "Assets/Content'Prefabs",
+            "Assets/Content/Prefabs",
             "Assets/Art/Prefabs"
         };
         
