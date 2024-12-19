@@ -1,5 +1,4 @@
 ﻿#if UNITY_EDITOR
-using System.Linq;
 using UnityEditor.SceneManagement;
 using UnityEngine.SceneManagement;
 using UnityEngine;
@@ -10,7 +9,7 @@ namespace Signals {
     public static class SignalsScannerInitializer
     {
         static readonly string[] SearchFolders = new[]{
-            "Assets/GameZone/CharControl/Example",
+            "Assets/Content'Prefabs",
             "Assets/Art/Prefabs"
         };
         
