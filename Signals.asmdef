@@ -2,7 +2,6 @@
     "name": "Signals",
     "rootNamespace": "",
     "references": [
-        "GUID:c334b22065f9cdc449066c3695fc187d",
         "GUID:68da9576cc9c2664a992145038f473bf"
     ],
     "includePlatforms": [],
